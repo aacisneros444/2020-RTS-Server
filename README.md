@@ -1,5 +1,5 @@
 # 2020-RTS-Server
-Repository for a real-time strategy game server prototype I made during the latter part of my senior year of high school (spring 2020/pandemic times). Made with Unity Engine's Data-Oriented Tech Stack and DarkRift2 networking library.
+Repository for a real-time strategy game server prototype I made during the latter part of my senior year of high school (spring 2020/pandemic times). Made in C# with Unity Engine's Data-Oriented Tech Stack and DarkRift2 networking library.
 Note: I haven't made a repo for the client side of this project, which is focused at rendering the state sent by this server.
 
 Didn't know much about good programming style and habits at this time, and it definitely shows!
